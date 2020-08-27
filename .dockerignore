@@ -1,0 +1,33 @@
+# Compiled binary addons
+dist
+
+# Dependency directory
+node_modules
+
+# Nuxt build
+.nuxt
+
+# Git ignore
+.gitignore
+.git
+readme.md
+
+# Mac config
+**/.DS_Store
+
+# Dockerfile
+Dockerfile
+.dockerignore
+
+# Temp and testing folder
+backgroundPdf
+pdfSource
+input
+inputProcessed
+inputError
+transform
+imposition
+print
+printProcessed
+printError
+logs

@@ -1,0 +1,8 @@
+{
+	"usePolling": true,
+	"interval": 1000,
+	"binaryInterval": 1000,
+	"stabilityThreshold": 3000,
+	"pollInterval": 1000,
+	"depth": 0
+}
